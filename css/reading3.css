@@ -1,0 +1,65 @@
+body{
+	background-image: url(file:///Users/katherinegarnett/Documents/GitHub/Reading%203/background.jpg);
+background-size: 1500px;
+position: fixed;s
+}
+p{
+	font-family: 'Kalam', cursive;
+	font-size: 10px;
+	color: black;
+	position: absolute;
+	padding: 60px;
+}
+
+.canvas{
+	 background: url(https://s3-us-west-2.amazonaws.com/s.cdpn.io/141041/banksy-frame.png);
+  background-size: cover;
+  height: 370px;
+  position: absolute;
+  width: 290px;
+  top: 250px;
+  left: 580px;
+  box-shadow: 200px;
+	box-shadow: 5px 5px 5px black;
+	border-opacity: 40%;
+
+}
+
+.art{
+	  background-image: url(file:///Users/katherinegarnett/Documents/GitHub/Reading%203/banksyart.png);
+  background-size: cover;
+  height: 260px;
+  position: absolute;
+  top: 307px;
+  left: 635px;
+  width: 180px;
+}
+
+
+
+.box{
+	height: 322px;
+  position: absolute;
+  top: 250px;
+  left: 622px;
+  width: 223px;
+  background-color: white;
+}
+
+.art:hover{
+ opacity:0; filter:alpha(opacity=0);
+ }
+
+
+ .plaque{
+ 	top: 640px;
+  left: 650px;
+  width: 150px;
+  height: 40px;
+  position: absolute;
+  	box-shadow: 2px 2px 3px black;
+background-color: white;
+text-align: center;
+font-family: 'Source Code Pro', monospace; 
+font-size: 10px;
+ }
