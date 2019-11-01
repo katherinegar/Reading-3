@@ -1,5 +1,5 @@
 body{
-	background-image: url(file:///Users/katherinegarnett/Documents/GitHub/Reading%203/background.jpg);
+	background-image: url(https://github.com/katherinegar/Reading3/blob/master/background.jpg?raw=true);
 background-size: 1500px;
 position: fixed;s
 }
@@ -26,7 +26,7 @@ p{
 }
 
 .art{
-	  background-image: url(file:///Users/katherinegarnett/Documents/GitHub/Reading%203/banksyart.png);
+	  background-image: url(https://github.com/katherinegar/Reading3/blob/master/banksyart.png?raw=true);
   background-size: cover;
   height: 260px;
   position: absolute;
